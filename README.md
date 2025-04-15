@@ -1,4 +1,6 @@
-## Hi there 👋
+## Kusuri12 👋
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hello!)
 
 <!--
 **kusuri12-09/kusuri12-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

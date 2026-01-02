@@ -8,12 +8,4 @@
     <img src="https://render.gitanimals.org/farms/kusuri12-09" width="600" height="300"/>
   </a>
   
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kusuri12-09&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/kusuri12-09?pet-id=781389329041633102"
-    width="600"
-    height="300"
-  />
-</a>
-  
 </div>

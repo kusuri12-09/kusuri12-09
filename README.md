@@ -1,11 +1,33 @@
 ## kusuri12
 <div align = center>
   <img src = "https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hello!">
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=500&size=32&color=F737B8&width=500&lines=Learning+BackEnd+DEV)](https://git.io/typing-svg)
+### 🛠️ Tech Stacks
+
+#### Backend
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Frontend
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📬 Contacts 
+- Mail: <a href="mailto:woox1jin@gmail.com">waterfail12@naver.com</a>
+- Linkedin: <a href="https://www.linkedin.com/in/kusuri12">in/kusuri12</a>
+- Discord: <a href="https://discord.com/users/1346701034365390919" target="_blank">kusuri12</a> 
+
+---
 
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kusuri12-09&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/kusuri12-09" width="600" height="300"/>
+    <img src="https://render.gitanimals.org/farms/kusuri12-09" width="400" height="200"/>
   </a>
-  
-</div>

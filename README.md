@@ -1,8 +1,4 @@
-## kusuri12
-<div align = center>
-  <img src = "https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hello!">
-</div>
-
+## Hello, I'm kusuri12
 ---
 
 ### 🛠️ Tech Stacks

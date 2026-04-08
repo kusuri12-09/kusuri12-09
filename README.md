@@ -1,5 +1,8 @@
 ## Hello, I'm kusuri12
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 🛠️ Tech Stacks
 
 #### Backend

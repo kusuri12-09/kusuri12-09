@@ -3,46 +3,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 123.4 kB Used in GitHub's Storage 
- > 
-> 🏆 816 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                626 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-🌆 Daytime                992 commits         ████████░░░░░░░░░░░░░░░░░   30.57 % 
-🌃 Evening                1159 commits        █████████░░░░░░░░░░░░░░░░   35.72 % 
+🌞 Morning                627 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+🌆 Daytime                992 commits         ████████░░░░░░░░░░░░░░░░░   30.56 % 
+🌃 Evening                1159 commits        █████████░░░░░░░░░░░░░░░░   35.71 % 
 🌙 Night                  468 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Tuesday                  558 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Wednesday                728 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-Thursday                 535 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Friday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Saturday                 261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Sunday                   439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Seoul
-
 💬 Programming Languages: 
 Kotlin                   17 hrs 41 mins      ██████████████████████░░░   86.08 % 
 Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
@@ -50,19 +23,12 @@ Markdown                 32 mins             █░░░░░░░░░░�
 YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
-🔥 Editors: 
-IntelliJ IDEA            18 hrs 56 mins      ███████████████████████░░   92.11 % 
-VS Code                  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-
 🐱‍💻 Projects: 
 hear                     18 hrs 56 mins      ███████████████████████░░   92.11 % 
 first                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 Hear_AI                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 DSMH                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 bigdata                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-
-💻 Operating System: 
-Windows                  20 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -77,12 +43,8 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/kusuri12-09/kusuri12-09/main/assets/bar_graph.png)
-
-
- Last Updated on 08/04/2026 01:31:12 UTC
+ Last Updated on 08/04/2026 01:40:11 UTC
 <!--END_SECTION:waka-->
 
 ### 🛠️ Tech Stacks

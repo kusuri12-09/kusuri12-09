@@ -1,7 +1,5 @@
 ## Hello, I'm kusuri12
 
-![stat](https://github-readme-stats.vercel.app/api?username=kusuri12-09)
-
 ### 🛠️ Tech Stacks
 
 #### Backend
